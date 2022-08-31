@@ -8,4 +8,4 @@ for x, y in (lista.items()):
 
 count = { k: len(v) for k, v in lista.items() }
 count2 = sum(count.values())
-print( f"W sumie kupię {count2} produktów." ) 
+print( f"W sumie kupię {count2} produktów!." ) 
